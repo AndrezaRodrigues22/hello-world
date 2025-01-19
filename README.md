@@ -4,7 +4,7 @@
 
 ## Quem Sou Eu? 🤔
 
-Sou um Analista de Testes QA apaixonado por garantir que o software funcione sem problemas e que os usuários tenham uma experiência impecável! Adoro encontrar bugs, criar testes e explorar novas ferramentas. Vamos tornar o software incrível juntos! 😄
+Sou uma Analista de Testes QA apaixonado por garantir que o software funcione sem problemas e que os usuários tenham uma experiência impecável! Adoro encontrar bugs, criar testes e explorar novas ferramentas. Vamos tornar o software incrível juntos! 😄
 
 ## O Que Eu Faço 🔍
   ![Gif Fofo](https://github.com/user-attachments/assets/78d426b7-bd75-415d-9020-16b8987d0a05)
@@ -19,12 +19,12 @@ Sou um Analista de Testes QA apaixonado por garantir que o software funcione sem
 ### 📦 **[Sistema de E-commerce](https://github.com/seu-usuario/projeto-ecommerce)**
 
 - **Descrição:** Testes Manuais e automatizados para um sistema WEB, Testes de Mapas, Geolocalização e Componentes com Cypress.
-- **Tecnologias:** Cypress, JavaScript, Postman, Cucumber, Gherkin e BDD.
+- **Tecnologias:** Cypress, JavaScript, Postman, Cucumber, Gherkin e BD.
 
 ### 🛠️ **[Aplicativo de Gerenciamento de Tarefas](https://github.com/seu-usuario/projeto-gerenciamento-tarefas)**
 
 - **Descrição:** Desenvolvimento de casos de teste e execução de testes para um aplicativo de gerenciamento de tarefas.
-- **Tecnologias:** JIRA ,Confluence e entre outras .
+- **Tecnologias:** JIRA, Confluence, Azure e entre outras .
 
 ### 📈 **[Plataforma de Análise de Dados](https://github.com/seu-usuario/projeto-analise-dados)**
 
@@ -32,19 +32,19 @@ Sou um Analista de Testes QA apaixonado por garantir que o software funcione sem
 
 ## Ferramentas e Tecnologias que Eu Uso 🛠️
 
-- **Automação de Testes:** Cypress, Ruby, Cucumber.
+- **Automação de Testes:** Cypress.
 - **Testes de Performance:** Uso adaptavél ao sistema.
 - **Gestão de Defeitos:** JIRA.
 - **Scripts e Linguagens:** Python, JavaScript.
-- **Outras Ferramentas:** Postman, BDD.
+- **Outras Ferramentas:** Postman, BDD, Cumcumber e Azure DevOps.
 
 ## Vamos Conversar? 💬
 ![танцующий кот гиф](https://github.com/user-attachments/assets/752df9b4-ed6a-4360-8c0e-ea367eda7044)
 
-Adoraria bater um papo sobre QA, tecnologia ou qualquer outro assunto interessante. Entre em contato!
+Adoraria bater um papo sobre QA ou tecnologia?
 
 - **Email:** andrezajb18@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/andreza-rodrigues26
 ---
-Obrigado por visitar meu portfólio! Espero que você tenha gostado e se divertido. Se precisar de algo ou quiser conversar, estou aqui para ajudar! 😄
+Obrigado por visitar meu portfólio! Espero que você tenha gostado e se divertido! 😄
 
