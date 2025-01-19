@@ -4,7 +4,7 @@
 
 ## Quem Sou Eu? 🤔
 
-Sou uma Analista de Testes QA apaixonado por garantir que o software funcione sem problemas e que os usuários tenham uma experiência impecável! Adoro encontrar bugs, criar testes e explorar novas ferramentas. Vamos tornar o software incrível juntos! 😄
+Sou uma Analista de Testes QA apaixonado por garantir que o software funcione sem problemas e que os usuários tenham uma experiência impecável! Adoro encontrar bugs, criar testes, cenários e explorar novas ferramentas. Vamos tornar o software incrível juntos! 😄
 
 ## O Que Eu Faço 🔍
   ![Gif Fofo](https://github.com/user-attachments/assets/78d426b7-bd75-415d-9020-16b8987d0a05)
