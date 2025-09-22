@@ -34,9 +34,9 @@ Sou uma Analista de Testes QA apaixonado por garantir que o software funcione se
 
 - **Automação de Testes:** Cypress.
 - **Testes de Performance:** Uso adaptavél ao sistema.
-- **Gestão de Defeitos:** JIRA.
+- **Gestão de Defeitos:** JIRA e Azure.
 - **Scripts e Linguagens:** Python, JavaScript.
-- **Outras Ferramentas:** Postman, BDD, Cumcumber e Azure DevOps.
+- **Outras Ferramentas:** Postman, SQLserver, Cumcumber e Gherkin.
 
 ## Vamos Conversar? 💬
 ![танцующий кот гиф](https://github.com/user-attachments/assets/752df9b4-ed6a-4360-8c0e-ea367eda7044)
